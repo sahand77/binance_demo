@@ -1,0 +1,1 @@
+export { default } from "file:///D:/work/projects/binance/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

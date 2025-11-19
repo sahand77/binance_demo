@@ -1,0 +1,15 @@
+{
+  "name": "binance-futures-btcusdt-clone",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@playwright/mcp": "^0.0.47",
+    "nuxt": "^3.13.0"
+  }
+}
