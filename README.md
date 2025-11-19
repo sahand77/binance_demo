@@ -158,7 +158,6 @@ npm run generate
 - `composables/useOrderBook.ts` – order book state, REST + WebSocket integration
 
 
-## How this was used as a pre‑hire task
 
 The goal of this task was to reproduce the core **look & feel** of the Binance futures BTCUSDT page and to show:
 
